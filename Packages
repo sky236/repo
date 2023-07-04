@@ -1,0 +1,19 @@
+Package: com.yan.anouk
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: yan
+Installed-Size: 712
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.yan.anouk_1.1.1_iphoneos-arm64.deb
+Size: 191408
+MD5sum: 199bc98cb7e5973182e181ebfa4a0462
+SHA1: 543af5dbd7c387995594650e449f0b03c6d8e55d
+SHA256: 4cb789f4e31e8de80490553d61d001839cfc4e122a60966fca92c95983cd19fc
+Section: Tweaks
+Description: Authentication for the hidden album.
+Author: yan
+Depiction: https://yandevelop.github.io/depic/Anouk/index.html
+Icon: https://yandevelop.github.io/assets/icons/anouk/icon.png
+Name: Anouk
+Sileodepiction: https://yandevelop.github.io/depic/Anouk/AnoukDepiction.json
+
